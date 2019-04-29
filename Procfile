@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT sst_billing_app_2874.wsgi:application
